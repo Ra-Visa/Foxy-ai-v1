@@ -1,0 +1,11 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+numpy<2
+pyTelegramBotAPI
+openai-whisper
+translators
+edge-tts
+moviepy==1.0.3
+Pillow==9.5.0
+imageio-ffmpeg
+Flask
